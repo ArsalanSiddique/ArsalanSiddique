@@ -1,7 +1,6 @@
-### Hi there 👋
-
+![GitHub Logo](https://raw.githubusercontent.com/ArsalanSiddique/sale_in_expo/main/assets/images/gallery/chair.jpg?token=AKSID3FWKYG2AO4WIJIXHILBJW7IS)
 <!--
-**ArsalanSiddique/ArsalanSiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
