@@ -1,4 +1,5 @@
-![GitHub Logo](https://raw.githubusercontent.com/ArsalanSiddique/sale_in_expo/main/assets/images/734bc2b7-909a-4043-822e-0bbadc2ed55c.jpeg?token=AKSID3EX6WJF6LHYGEKLSJTBJW75W)
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
+
 <!--
 ### Hi there 👋
 
