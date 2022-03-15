@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Arsalan</h1>
+<h3 align="center">A Passionate Developer from Pakistan</h3>
+
+- 🔭 I’m currently working on **Laravel, Wordpress**
+
+- 🌱 I’m currently learning **WEB3 DEVELOPMENT**
+
+- 📫 Reach me at **arsalan@devndesigs.com**
+
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <!--
