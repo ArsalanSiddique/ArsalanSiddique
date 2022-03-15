@@ -33,7 +33,8 @@
 
 
 
-
+<h3 align="center">Quote Of The Day</h3>
+<br />
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <!--
