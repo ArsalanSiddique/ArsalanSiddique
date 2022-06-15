@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WEB3 DEVELOPMENT**
 
-- 📫 Reach me at **arsalan@devndesigs.com**
+- 📫 Reach me at **arsalan@devndesigns.com**
 
 
 
