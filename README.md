@@ -25,7 +25,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PhP" width="40" height="40"/> </a> 
 <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" alt="Laravel" width="40" height="40"/> </a> 
-<a href="https://wordpress.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/wordpress-white.svg
+<a href="https://wordpress.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wordpress-icon.svg
 " alt="Wordpress" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
