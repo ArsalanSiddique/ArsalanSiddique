@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel, Wordpress**
 
-- 🌱 I’m currently learning **WEB3 DEVELOPMENT**
+- 🌱 I’m currently learning **WEB 3.0 **
 
 - 📫 Reach me at **arsalan@devndesigns.com**
 
