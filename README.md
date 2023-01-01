@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Laravel, Wordpress**
 
-- 🌱 I’m currently learning **WEB 3.0 **
+- 🌱 I’m currently learning **Frontend Framework Vue Js**
 
-- 📫 Reach me at **arsalan@devndesigns.com**
+- 📫 Reach me at **arsalan.ahmed1264@gmail.com**
 
 
 
