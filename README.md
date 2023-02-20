@@ -30,12 +30,12 @@
 </p>
 
 
-
+<!--
 <h3 align="left">Quote Of The Day </h3>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
-<!--
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
