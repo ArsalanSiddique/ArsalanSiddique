@@ -31,6 +31,11 @@
 <a href="https://https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
+<br/>
+<br/>
+
+<h3 align="left">Fun fact:</h3>
+![Profile View Counter](https://komarev.com/ghpvc/?username=arsalan_siddique)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/arsalan_siddique/arsalan_siddique)
 
 <br/>
 <br/>
