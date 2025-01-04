@@ -35,7 +35,7 @@
 <br/>
 
 <h3 align="left">Fun fact:</h3>
-![Profile View Counter](https://komarev.com/ghpvc/?username=arsalan_siddique)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/arsalan_siddique/arsalan_siddique)
+(https://komarev.com/ghpvc/?username=arsalan_siddique)&nbsp;&nbsp;(https://img.shields.io/github/last-commit/arsalan_siddique/arsalan_siddique)
 
 <br/>
 <br/>
