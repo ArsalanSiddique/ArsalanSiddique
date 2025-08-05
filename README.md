@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arsalan</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Laravel, Wordpress**
+- 🔭 I’m currently working on **Laravel and ReactJs**
 
-- 🌱 I’m currently learning **Frontend Framework Vue Js**
+- 🌱 I’m currently learning **AI and Automation**
 
 - 📫 Reach me at **arsalan.ahmed1264@gmail.com**
 
