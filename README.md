@@ -31,6 +31,12 @@
 <a href="https://https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
+
+<br/>
+<br/>
+
+<a href="https://whyphp.dev"><img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b" alt="Why PHP in 2026"></a>
+
 <br/>
 <br/>
 
